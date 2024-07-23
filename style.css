@@ -96,7 +96,9 @@ h1 {
 
 .remember-forgot input {
   margin-right: 5px;
-  accent-color: white;
+  accent-color: rgb(255, 255, 255);
+  height: 20px;
+  width: 20px;
 }
 
 .remember-forgot a {
